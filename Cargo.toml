@@ -7,11 +7,9 @@ repository = "https://github.com/luncj/turing"
 homepage = "https://github.com/luncj/turing"
 documentation = "https://docs.rs/etcd-rs"
 edition = "2018"
-version = "0.0.0"
+version = "0.1.0"
 license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-thiserror = "1.0"
-bitvec = "0.17"
