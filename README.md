@@ -3,7 +3,7 @@ Turing
 
 Hash library
 
-[![Building](https://img.shields.io/github/workflow/status/luncj/turing/rust?style=flat-square)](https://github.com/luncj/turing/actions)
+[![Building](https://img.shields.io/github/workflow/status/luncj/turing/Rust?style=flat-square)](https://github.com/luncj/turing/actions)
 [![VERSION](https://img.shields.io/crates/v/turing?style=flat-square)](https://crates.io/crates/turing)
 [![LICENSE](https://img.shields.io/github/license/luncj/turing.svg?style=flat-square)](https://github.com/luncj/turing/blob/master/LICENSE)
 
